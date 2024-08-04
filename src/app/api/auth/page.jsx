@@ -5,6 +5,7 @@ const page = () => {
         <div>
             <h2>Auth</h2>
             <p>Lets try tomorrow</p>
+            <p>Tomorrow need to complete Next</p>
         </div>
     );
 };
